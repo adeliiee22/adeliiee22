@@ -45,7 +45,7 @@ Used **LSTM** models to predict stock price trends, achieving a **MAPE** of 4.62
 
 - **Oracle Cloud Certified Foundations Associate**
 - **1st Place** at the **APWINC Digital Hackathon**
-- **SCG Sharing the Dream Scholarship Awardee**
+- **CIMB Niaga Scholarship Awardee**
 - **Talent Scouting Academy Digital Talent Scholarship** by KOMINFO
 
 ---
