@@ -2,7 +2,7 @@
 
 🌟 **Computer Science Student | Data Engineer | Tech Enthusiast**
 
-I'm Dewi, a computer science student from Universitas Gadjah Mada, driven by a passion for transforming data into actionable insights. I specialize in **data engineering, analytics, and AI development**. I’m always excited to explore new technologies and leverage them to create impactful solutions.
+I'm Adel, a computer science student from Universitas Gadjah Mada, driven by a passion for transforming data into actionable insights. I specialize in **data engineering, analytics, and AI development**. I’m always excited to explore new technologies and leverage them to create impactful solutions.
 
 ---
 
