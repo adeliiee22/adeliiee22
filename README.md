@@ -10,7 +10,7 @@ I'm Adel, a computer science student from Universitas Gadjah Mada, driven by a p
 
 - 🌱 Currently diving deep into **Big Data Analytics** and **AI Development**.
 - 🔍 Exploring **Data Engineering** projects with a focus on **ETL pipelines**, **Machine Learning models**, and **Cloud Computing**.
-- 💡 Passionate about building **data-driven solutions** for real-world problems, from startups to non-profits.
+- 💡 Passionate about building **data-driven solutions** for real-world problems.
 - 🎯 **Seeking new opportunities** to expand my skills and collaborate with innovative teams.
 
 ---
